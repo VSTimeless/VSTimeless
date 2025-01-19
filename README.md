@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @VSTimeless
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning Python, HTML & CSS
+👋 Hi, I’m @VSTimeless
+I’m an engineering student based in Vancouver, B.C.
+Experience with zerocode, basic webdev, CAD software and database management 
 - 📫 How to reach me: https://vstimeless.web.app/
 
 <!---
